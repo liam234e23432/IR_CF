@@ -41,7 +41,7 @@
 
 <div align="center">
 
-### 🏆 Developed by:
+### 🏆 DEVELOPED BY:
 [**VIP3R**](https://t.me/CY3ER) | [**NIMA**](https://t.me/)
 
 ---
